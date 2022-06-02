@@ -1,13 +1,25 @@
 [
     {
         "autoActivateOnIdentityCreation": true,
-        "autoInjectStartingPeriodWeight": 0.05,
-        "id": "MGQjEt4MrPp4bEMLlFaBFg",
+        "autoInjectStartingPeriodWeight": 0.025,
+        "id": "uxKyyFwBkxdJ9gkGyaXDUQ",
         "name": "SourceCred",
         "periods": [
             {
-                "startTime": "2022-06-02T17:54:46.554Z",
-                "weight": 0.05
+                "startTime": "2022-06-02T18:03:45.681Z",
+                "weight": 0.025
+            }
+        ]
+    },
+    {
+        "autoActivateOnIdentityCreation": true,
+        "autoInjectStartingPeriodWeight": 0.025,
+        "id": "CJTP5gqJyTdxjbLvad5aIw",
+        "name": "721-Labs",
+        "periods": [
+            {
+                "startTime": "2022-06-02T18:03:45.682Z",
+                "weight": 0.025
             }
         ]
     }
