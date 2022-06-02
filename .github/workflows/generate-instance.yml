@@ -1,4 +1,4 @@
-name: Generate Cred Instance
+name: Index Cred
 on:
   # Trigger on merging to main.
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  GenerateCredInstance:
+  index:
     runs-on: ubuntu-latest
     env:
       NODE_OPTIONS: --max_old_space_size=8192
