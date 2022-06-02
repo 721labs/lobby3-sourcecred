@@ -1,5 +1,1 @@
-{
-  "bundledPlugins": [
-    "sourcecred/discourse"
-  ]
-}
+{"credEquatePlugins":[],"bundledPlugins":["sourcecred/discourse"]}
